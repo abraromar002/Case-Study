@@ -7,6 +7,8 @@ https://github.com/abraromar002/call-center — Interactive data dashboard using
 Machine Learning App
 https://github.com/abraromar002/MEDICAL-INSURANCE-PREDICTION-APP — ML model deployed with Streamlit for predicting insurance charges.
 
-Agentic AI Automation
-https://abrar02.app.n8n.cloud/workflow/abv7Y0r4ywzwTJjO— No-code AI agent using n8n, Hugging Face, and Telegram bot.
+# 🧠 AI News Auto-Notifier using n8n
+
+This n8n workflow automates the process of fetching, classifying, formatting, emailing, and storing the latest Artificial Intelligence news.
+https://github.com/abraromar002/ai-news-automation-using-n8n
 
